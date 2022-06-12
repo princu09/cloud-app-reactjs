@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/cloud-app-reactjs/static/css/main.a53753ba.css",
+    "main.js": "/cloud-app-reactjs/static/js/main.e25731eb.js",
+    "static/media/support.jpeg": "/cloud-app-reactjs/static/media/support.13dffa5bdb3a671bcb5b.jpeg",
+    "static/media/cyber-bg.png": "/cloud-app-reactjs/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "static/media/cloud.png": "/cloud-app-reactjs/static/media/cloud.a7c714a85c0ab0702a95.png",
+    "index.html": "/cloud-app-reactjs/index.html",
+    "main.a53753ba.css.map": "/cloud-app-reactjs/static/css/main.a53753ba.css.map",
+    "main.e25731eb.js.map": "/cloud-app-reactjs/static/js/main.e25731eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a53753ba.css",
+    "static/js/main.e25731eb.js"
+  ]
+}
